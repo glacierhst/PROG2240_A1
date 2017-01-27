@@ -1,7 +1,8 @@
 <%-- 
     Document   : HQSHFooter
     Created on : Jan 27, 2017, 12:06:23 AM
-    Author     : GH
+    Driver: Shuting He
+    Observer: Haitao Qi
 --%>
 
     <footer>

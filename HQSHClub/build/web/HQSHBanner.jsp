@@ -1,7 +1,8 @@
 <%-- 
     Document   : HQSHBanner
     Created on : Jan 26, 2017, 11:21:03 PM
-    Author     : GH
+    Driver: Shuting He
+    Observer: Haitao Qi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

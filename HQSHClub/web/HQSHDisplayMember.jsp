@@ -1,7 +1,8 @@
 <%-- 
     Document   : HQSHDisplayMember
     Created on : Jan 27, 2017, 1:40:27 AM
-    Author     : GH
+    Driver: Shuting He
+    Observer: Haitao Qi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

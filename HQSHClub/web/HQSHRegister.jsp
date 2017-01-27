@@ -1,7 +1,8 @@
 <%-- 
     Document   : HQSHRegister
     Created on : Jan 27, 2017, 1:21:18 AM
-    Author     : GH
+    Driver: Shuting He
+    Observer: Haitao Qi
 --%>
 
 
@@ -13,13 +14,13 @@
     <form action="HQSHDisplayMember.jsp" method="POST">
         <table>
             <tr><td>Full Name:</td>
-                <td><input type="text" name="fullname" required style="width:100px"></td>
+                <td><input type="text" name="fullname" required style="width:200px"></td>
             </tr>
             <tr><td>Email:</td>
-                <td><input type="text" name="email" required style="width:200px"></td>
+                <td><input type="text" name="email" required style="width:300px"></td>
             </tr>
             <tr><td>Phone:</td>
-                <td><input type="text" name="phone" style="width:50px"></td>
+                <td><input type="text" name="phone" style="width:100px"></td>
             </tr>
             <tr><td>IT Program:</td>
                 <td>
